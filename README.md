@@ -42,3 +42,6 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
 - Export the DataFrame to a CSV file.
 
 ## Results
+Results for part one can be found in part_1_mars_news_MG.ipynb file
+
+Results for part two can be found in part_2_mars_weather_MG.ipynb file
