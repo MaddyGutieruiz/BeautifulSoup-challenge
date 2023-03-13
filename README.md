@@ -44,4 +44,8 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
 ## Results
 Results for part one can be found in part_1_mars_news_MG.ipynb file
 
+https://github.com/MaddyGutieruiz/BeautifulSoup-challenge/blob/main/part_1_mars_news_MG.ipynb
+
 Results for part two can be found in part_2_mars_weather_MG.ipynb file
+
+https://github.com/MaddyGutieruiz/BeautifulSoup-challenge/blob/main/part_2_mars_weather_MG.ipynb
